@@ -1,0 +1,13 @@
+# 构建产物
+/build/
+/app/build/
+.gradle/
+*.apk
+
+# 密钥文件
+Build_Key.txt
+local.properties
+*.jks
+
+# 临时文件
+File_List.txt
